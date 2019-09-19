@@ -11,8 +11,6 @@ tags: [parenting, fatherhood, tanzania, tanzania2019, flight, travel, arnav, "20
 
 <!--- All of the above frontmatter fields are mandatory -->
 
-# Tanzania 2019 - Flight Home
-
 On the way back we had the privilege to travel via Dar Es Salaam’s new international airport. 
 
 There were a few eyebrow raising moments (like the lady who instead of showing us the bay changing room decided to take us in there to stand and watch) but all in all I was impressed by the standard. Passport checks were quite time consuming, security was fine no problems whatsoever but with time to spare we were surprised to be called to the gate early for final checks (plane was full apparently so they wanted to get everyone in early)
