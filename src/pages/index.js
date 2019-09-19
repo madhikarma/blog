@@ -45,7 +45,7 @@ class SiteIndex extends React.Component {
             If you'd like to know more <a href="/contact">contact</a> me.
           </p>
           <p>
-            Thanks for visiting and checkout the <a href="">blog</a> for more
+            Thanks for visiting and checkout the <a href="/blog">blog</a> for more
             from me.
           </p>
         </div>
