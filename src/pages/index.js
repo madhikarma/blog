@@ -28,10 +28,10 @@ class SiteIndex extends React.Component {
             there but had to leave for personal (family) circumstances.
           </p>
           <p>
-            I now work at <a href="https://www.lyst.com">Lyst</a> as Lead iOS developer heading up the mobile team of iOS, Backend, full stack and QA engineers.
+            I now work at <a href="https://www.lyst.com">Lyst</a> as Lead iOS developer for a mobile team of iOS, Backend, full stack and QA engineers.
           </p>
           <p>
-            I've been in software a little over 10 years - mostly iOS
+            I've been in software a little over 10 years - mostly iOS and some web
             development using{' '}
             <a href="https://en.wikipedia.org/wiki/Agile_software_development">
               agile methodologies -
