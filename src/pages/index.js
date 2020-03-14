@@ -31,8 +31,7 @@ class SiteIndex extends React.Component {
             I now work at <a href="https://www.lyst.com">Lyst</a> as Lead iOS developer for a mobile team of iOS, Backend, full stack and QA engineers.
           </p>
           <p>
-            I've been in software a little over 10 years - mostly iOS and some web
-            development using{' '}
+            I've been in software a little over 10 years - mostly handson using{' '}
             <a href="https://en.wikipedia.org/wiki/Agile_software_development">
               agile methodologies -
             </a>{' '}
