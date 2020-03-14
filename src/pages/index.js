@@ -23,9 +23,12 @@ class SiteIndex extends React.Component {
         <div>
           <p>Hi, I'm Shagun Madhikarmi</p>
           <p>
-            I work at <a href="https://www.ustwo.com">ustwo</a> as a Tech Lead
+            I used to work at <a href="https://www.ustwo.com">ustwo</a> as a Tech Lead
             (full stack web and native mobile) and formerly as an iOS developer
-            there.
+            there but had to leave for personal (family) circumstances.
+          </p>
+          <p>
+            I now work at <a href="https://www.lyst.com">ustwo</a> as Lead iOS developer heading up the mobile team of iOS, Backend, full stack and QA engineers.
           </p>
           <p>
             I've been in software a little over 10 years - mostly iOS
